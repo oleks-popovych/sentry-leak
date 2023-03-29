@@ -1,0 +1,4 @@
+sentry_sdk==1.15.0
+celery[redis]==5.2.7
+pydantic
+numpy
