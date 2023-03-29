@@ -9,6 +9,16 @@ stays the same, whereas in version above `1.15.0`  in continues to increase.
 
 
 ## Tested
+Machine info:
+```
+Python 3.8.10 (default, Mar 13 2023, 10:26:41) 
+[GCC 9.4.0]
+
+NAME="Ubuntu"
+VERSION="20.04.6 LTS (Focal Fossa)"
+
+5.15.0-67-generic
+```
 
 Versions affected:
 ```
